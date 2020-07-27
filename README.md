@@ -1,5 +1,5 @@
 # COVID19-PRM
-Repo for COVID19 Political Realities Model (PRM)
+The COVID19 Political Realities Model (PRM)
 
 The Political Realities Model (PRM) is built on observations of macro-level societal and political responses to COVID measured only in terms of infections and deaths. The starting point of the model is the belief that individuals' and policy makers' perceptions of COVID-19 risks generate a relatively narrow and fairly predictable, but not ideal, set of responses. Although specific individual behavior and government regulation may vary over time and from place to place, the range of what a society and its elected officials will accept as the aggregate impact from COVID19 can relatively easily be characterized. This model seeks to characterize these responses and models their impact on infection rates. Infection rates are in turn is related to deaths via a simple (time- and geographically-varying) phenomenological model derived through fitting. This allow the model to build in variation in the demographics of the infected population, access to health care & COVID testing and the actual infection fatality rate from place to place without explicitly considering these factors. At present the model is deterministic rather than probabilistic, and so only provides point forecasts. The model considers the United States at the state level.
 
